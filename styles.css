@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: 'Lobster', 'Times new roman';
+
+}
+
+.header {
+    background-image: url('https://bogatyr.club/uploads/posts/2021-11/thumbs/1636920778_61-bogatyr-club-p-fon-dlya-prilozheniya-61.jpg');
+    background-color: black;
+
+}
+
+.About-Me {
+    font-family: 'Times New Roman';
+    color: rgb(255, 255, 255);
+    margin-left: 300px;
+    font-size: 35px;
+    margin-bottom:20px ;
+}
+
+.About-Me-Text {
+    font-family: 'Times New Roman';
+    color: rgb(255, 255, 255);
+    margin-left: 200px;
+    margin-right: 150px;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+.navigation {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+.title {
+    color: black;
+    margin-left: 150px;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+
+}
+
+.images-person {
+    margin-left: 400px;
+    background-image: url(images/background1.jpg);
+
+}
+
+.title2 {
+    color: black;
+    margin-left: 200px;
+    margin-right: 150px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+
+}
+.footer{
+    background-image: url('https://bogatyr.club/uploads/posts/2021-11/thumbs/1636920778_61-bogatyr-club-p-fon-dlya-prilozheniya-61.jpg');
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+h5 {
+
+    font-size: 25px;
+
+}
+.botton {
+
+    margin-left: 180px;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    color: black;
+    font-weight:bold;
+
+}
+.Images2
+{ 
+    margin-left: 250px;
+}
